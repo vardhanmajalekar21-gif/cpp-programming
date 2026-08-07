@@ -6,10 +6,9 @@ int main()
     cout << "Enter n: ";
     cin >> n;
     while (i <= n) 
-    {
+{
         cout << i << " ";
         i++;
-    }
-
+}
     return 0;
 }
